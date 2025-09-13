@@ -1,0 +1,27 @@
+header{
+    background-color: #F6AE0C;
+}
+
+#logoHeader{
+    width: 75px;
+    padding: 5px;
+    transition: 0.5s;
+}
+
+#logoHeader:hover{
+    rotate: -90deg;
+    transition-duration: 1s;
+}
+
+/* menu items */
+
+
+
+.itemMenu{
+    margin-right: 20px;
+    padding: 5px;
+}
+
+.itemMenu a{
+    font-size: 1.2rem;
+}

@@ -1,0 +1,62 @@
+table{
+    color:#A64921;
+}
+
+thead{
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 1.4rem;
+    font-weight: 500;
+}
+
+thead tr:nth-child(odd){
+    background-color: transparent;
+}
+
+tr:nth-child(odd){
+    background-color: #FEFEDD;
+}
+
+tr:nth-child(even){
+    background-color: #FEEE9E;
+}
+
+tr{
+    display: flex;
+    border-radius: 15px;
+}
+
+tr td:nth-child(2) {
+    font-family: 'Signika Negative', sans-serif;
+    color: #927A35;
+    font-size: 1.75rem;
+    font-weight: 500;
+}
+
+tr td:nth-child(3), tr td:nth-child(4) {
+    font-family: 'Gothic A1', sans-serif;
+    font-weight: 400;
+    color: #A64921;
+    font-size: 1.2rem;
+}
+
+table img{
+    width: 100px;
+}
+
+table img:hover{
+    cursor: auto;
+}
+
+.btnTable{
+    padding: 10px;
+    border-radius: 12px;
+    text-transform: uppercase;
+    background-color: #F6AE0C;
+    font-size: 0.9rem;
+}
+
+.btnTable:hover{
+    background-color: #927A35;
+    color: #FEFEDD;
+}
+

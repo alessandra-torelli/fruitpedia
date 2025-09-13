@@ -1,0 +1,38 @@
+.btnHome{
+    padding: 15px;
+    border-radius: 12px;
+    text-transform: uppercase;
+    background-color: #F6AE0C;
+    color: #FEFEDD;
+    width: fit-content;
+    margin-top: 1.75rem;
+    display: block;
+}
+
+.btnHome:hover{
+    background-color: #927A35;
+    cursor: pointer;
+    color: #FEFEDD;
+}
+
+#bgImgHome{
+    background-image: url("../../assets/images/triangleBg.png");
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0 15% 17% 15%;
+}
+
+#bgImgHome img{
+    width: 55%;
+}
+
+#bgImgHome img:hover{
+    cursor: auto;
+}
+
+#btnHomeDown{
+    margin-top: -2rem;
+}

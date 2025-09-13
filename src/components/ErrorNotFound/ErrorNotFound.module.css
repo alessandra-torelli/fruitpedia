@@ -1,0 +1,21 @@
+#errorPage{
+    background-color: #FEE463;
+}
+
+#bgImgError{
+    background-image: url("../../assets/images/triangleBg.png");
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0 10% 15% 10%;
+}
+
+#bgImgError img{
+    width: 80%;
+}
+
+#bgImgError img:hover{
+    cursor: auto;
+}

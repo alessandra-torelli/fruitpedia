@@ -1,0 +1,360 @@
+[
+  {
+    "id": 1,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138926.png",
+    "photos": {
+      "plant": "https://ordini.farmaciachiesa.it/img_prodotto/768x768/q/banano-giapponese-musa-basjoo_12901.jpg",
+      "flower": "https://cdn.lifehack.org/wp-content/uploads/2016/09/20221352/422948712-banana-flower-luang-prabang-tropical-plant-pink.jpg",
+      "fruit": "https://cdn1.sph.harvard.edu/wp-content/uploads/sites/30/2018/08/bananas-1354785_1920.jpg"
+    }
+  },
+  {
+    "id": 3,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9139/9139028.png",
+    "photos": {
+      "plant": "https://strawberryplants.org/wp-content/uploads/How-Tall-Do-Strawberry-Plants-Grow-featured.jpg",
+      "flower": "https://www.floraqueen.com/blog/wp-content/uploads/2020/02/shutterstock_35573803.jpg",
+      "fruit": "https://www.gardeningknowhow.com/wp-content/uploads/2021/07/ripe-red-strawberries.jpg"
+    }
+  },
+  {
+    "id": 2,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138959.png",
+    "photos": {
+      "plant": "https://www.gardeningknowhow.com/wp-content/uploads/2021/07/full-tree-of-oranges.jpg",
+      "flower": "https://www.tuttogreen.it/wp-content/uploads/2018/07/shutterstock_281773640.jpg",
+      "fruit": "https://www.finedininglovers.it/sites/g/files/xknfdk1106/files/2022-01/tipi%20di%20arance%20-%20Finedininglovers.jpg"
+    }
+  },
+  {
+    "id": 4,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9139/9139015.png",
+    "photos": {
+      "plant": "https://cdn.shopify.com/s/files/1/0158/9452/files/Pear_Tree_Mature_Block_1024x1024.jpg?v=1642085558",
+      "flower": "https://cdn.shopify.com/s/files/1/0022/0774/4115/products/cleveland12_1024x1024@2x.jpg?v=1547227198",
+      "fruit": "https://www.tastingtable.com/img/gallery/why-you-should-leave-the-skin-on-pears/intro-1653326060.jpg"
+    }
+  },
+  {
+    "id": 5,
+    "icon": "https://cdn-icons-png.flaticon.com/512/2503/2503930.png",
+    "photos": {
+      "plant": "https://growfully.com/wp-content/uploads/2021/02/red-ripe-tomato-plants-600x901.jpg",
+      "flower": "https://cdn.shopify.com/s/files/1/0061/1391/9089/articles/blossom-drop-lead-1280x720.jpg?v=1655093595",
+      "fruit": "https://snaped.fns.usda.gov/sites/default/files/styles/crop_ratio_7_5/public/seasonal-produce/2018-05/tomatoes.jpg?itok=JhlM9Onh"
+    }
+  },
+  {
+    "id": 6,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138881.png",
+    "photos": {
+      "plant": "https://cdn.shopify.com/s/files/1/0158/9452/files/Apple_Planning_1024x1024.jpg?v=1633974766",
+      "flower": "https://www.giardinaggio.it/fiori/fiori-delle-piante/fiori-melo_NG1.jpg",
+      "fruit": "https://wips.plug.it/cips/paginegialle.it/magazine/cms/2018/12/99778620_s-Cropped.jpg?w=744&h=418&a=c"
+    }
+  },
+  {
+    "id": 9,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138900.png",
+    "photos": {
+      "plant": "https://www.gardeningknowhow.com/wp-content/uploads/2015/05/cherry-trees.jpg",
+      "flower": "https://images.pexels.com/photos/992734/pexels-photo-992734.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "fruit": "https://healthyfamilyproject.com/wp-content/uploads/2020/05/Cherries-background.jpg"
+    }
+  },
+  {
+    "id": 10,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138947.png",
+    "photos": {
+      "plant": "https://images.immediate.co.uk/production/volatile/sites/10/2021/04/2048x1365-Ananas-comosus-SEO-GettyImages-1208716364-82d4b98.jpg?quality=90&resize=940,627",
+      "flower": "https://floridafruitgeek.files.wordpress.com/2020/09/2015-07-31_13.11.jpg",
+      "fruit": "https://www.tastingtable.com/img/gallery/the-real-reason-americans-often-associate-pineapples-with-hawaii/l-intro-1652379052.jpg"
+    }
+  },
+  {
+    "id": 23,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9139/9139003.png",
+    "photos": {
+      "plant": "https://www.laurensgardenservice.com/wp-content/uploads/2020/05/Raspberry-Shortcake-Raspberry-2.jpg",
+      "flower": "https://ucanr.edu/blogs/strawberries_caneberries/blogfiles/3801.jpg",
+      "fruit": "https://www.lecreuset.co.za/blog/wp-content/uploads/2014/10/Flavour-Feature-Raspberries-Le-Creuset.jpg"
+    }
+  },
+  {
+    "id": 25,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138943.png",
+    "photos": {
+      "plant": "https://borealbloomhomestead.com/wp-content/uploads/2022/11/watermelon-plant-1.jpeg.webp",
+      "flower": "https://www.garden.eco/wp-content/uploads/2018/12/watermelon-flowers.jpg",
+      "fruit": "https://snaped.fns.usda.gov/sites/default/files/seasonal-produce/2018-05/watermelon.jpg"
+    }
+  },
+  {
+    "id": 26,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9139/9139052.png",
+    "photos": {
+      "plant": "https://cdn.shopify.com/s/files/1/0273/0118/3586/products/Ponderosa_Giant_LemonTree-alandofdelightfarm_771x.png?v=1613062152",
+      "flower": "https://qph.cf2.quoracdn.net/main-qimg-9764433d7447cb41bb958e14d8a979ae-lq",
+      "fruit": "https://www.tastingtable.com/img/gallery/31-types-of-lemons-and-what-makes-them-unique/intro-1656086555.jpg"
+    }
+  },
+  {
+    "id": 27,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138994.png",
+    "photos": {
+      "plant": "https://m.media-amazon.com/images/I/81xk-ZvsdCS.jpg",
+      "flower": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Mango_Tree_Flower.JPG/1280px-Mango_Tree_Flower.JPG",
+      "fruit": "https://www.haifa-group.com/sites/default/files/field/image/Mango%20Mobile%20banner_1.png"
+    }
+  },
+  {
+    "id": 33,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9139/9139065.png",
+    "photos": {
+      "plant": "https://www.espoma.com/wp-content/uploads/2016/03/Peach-Sorbet-in-test-plot.jpg",
+      "flower": "https://www.garden.eco/wp-content/uploads/2018/05/blueberry-flowers.jpg",
+      "fruit": "https://images-prod.healthline.com/hlcmsresource/images/AN_images/blueberries-1296x728-feature.jpg"
+    }
+  },
+  {
+    "id": 35,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138962.png",
+    "photos": {
+      "plant": "https://www.giardinaggio.net/frutti/alberi-da-frutto/albicocco_NG1.jpg",
+      "flower": "https://www.ilovevaldinon.it/wp-content/uploads/2017/04/fiori-alberi-da-frutto-albicocco-sara-manella.jpg",
+      "fruit": "https://agricolturasocialepavia.it/wp-content/uploads/2017/07/albicocche.jpg"
+    }
+  },
+  {
+    "id": 37,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138986.png",
+    "photos": {
+      "plant": "https://i.pinimg.com/originals/7a/3f/3f/7a3f3fb012011b82ddb15c54b1fc311e.jpg",
+      "flower": "https://live.staticflickr.com/694/22529803804_280871c703_b.jpg",
+      "fruit": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/full-frame-shot-of-guava-fruits-for-sale-in-market-royalty-free-image-1665733922.jpg?crop=0.617xw:0.924xh;0.219xw,0.0758xh&resize=1200:*"
+    }
+  },
+  {
+    "id": 41,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138883.png",
+    "photos": {
+      "plant": "https://plantinstructions.com/wp-content/uploads/2018/04/melon-harvest-1024x576.jpg",
+      "flower": "https://lh6.ggpht.com/jlC5XTzUW87ogCL2VKd0WqUuIMaIKJ-X1qYFAF3JwtI70h3_zJ53PU-1W2H9JupxpyjghDsSwkPsriiQaQzeug=s580",
+      "fruit": "https://upload.wikimedia.org/wikipedia/commons/2/28/Cantaloupes.jpg"
+    }
+  },
+  {
+    "id": 42,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9139/9139046.png",
+    "photos": {
+      "plant": "https://i.pinimg.com/736x/6d/74/0e/6d740ea591ec91aafef674a7e0df49c4.jpg",
+      "flower": "https://media.istockphoto.com/id/504818206/photo/papaya-flower-and-buds-in-garden.jpg?s=612x612&w=0&k=20&c=arUvxQP7VbSlkKVW2iF87rC-l8iYNX1SWW6pRmdQN7E=",
+      "fruit": "https://thrivemeetings.com/wp-content/uploads/2017/06/iStock-177546268.jpg"
+    }
+  },
+  {
+    "id": 44,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9139/9139055.png",
+    "photos": {
+      "plant": "https://www.treeguideuk.co.uk/wp-content/uploads/2020/04/lime-broad-leaved-1.jpg",
+      "flower": "https://cdn.britannica.com/37/187437-050-C2841295/Flowers-fruits-lime-tree.jpg",
+      "fruit": "https://wips.plug.it/cips/buonissimo.org/cms/2015/01/adobestock_97287035.jpeg"
+    }
+  },
+  {
+    "id": 52,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138887.png",
+    "photos": {
+      "plant": "https://i.etsystatic.com/13098602/r/il/a5c2f7/1459631759/il_570xN.1459631759_ndit.jpg",
+      "flower": "https://www.garden.eco/wp-content/uploads/2018/06/persimmon-flower.jpg",
+      "fruit": "https://hips.hearstapps.com/hmg-prod/images/persimmon-fruit-on-old-wooden-background-top-view-royalty-free-image-1651607677.jpg?crop=0.662xw:1.00xh;0.284xw,0&resize=1200:*"
+    }
+  },
+  {
+    "id": 60,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9139/9139037.png",
+    "photos": {
+      "plant": "https://t4.ftcdn.net/jpg/01/73/88/15/360_F_173881573_qeTEJp5xP8tfOAN5qGJtw516SDV2jtbQ.jpg",
+      "flower": "https://photos.smugmug.com/2017-Blog/i-sMZ8scL/0/L/P1012806-1-L.jpg",
+      "fruit": "https://cdn.agrodolce.it/shg3sVGCAaeDk5GxnfH1XqYLzG4=/1200x800/smart/https://www.agrodolce.it/app/uploads/2015/03/shutterstock_207963154.jpg"
+    }
+  },
+  {
+    "id": 64,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9139/9139064.png",
+    "photos": {
+      "plant": "https://ohioline.osu.edu/sites/ohioline/files/imce/Horticulture_and_Crop_Science/HYG-1431-Fig1__Blackberry-bushes.jpg",
+      "flower": "https://cdn.britannica.com/60/175660-050-31EFCAF0/Flowers-blackberry.jpg",
+      "fruit": "https://www.almanac.com/sites/default/files/styles/or/public/image_nodes/blackberries-dish.jpg?itok=u0xmS2X4"
+    }
+  },
+  {
+    "id": 65,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9139/9139061.png",
+    "photos": {
+      "plant": "https://www.trees.com/wp-content/uploads/products/medium/1000/Lingonberry-Plant-2.webp",
+      "flower": "https://www.epicgardening.com/wp-content/uploads/2019/04/Closeup-of-lingon-flower.jpg",
+      "fruit": "https://airellesdesfreres.com/wp-content/uploads/2016/07/airelles-description-1.jpg"
+    }
+  },
+  {
+    "id": 66,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138923.png",
+    "photos": {
+      "plant": "https://www.noisiamoagricoltura.com/wp-content/uploads/2019/10/kiwis-196807_1280-e1570634415274.jpg",
+      "flower": "https://www.walterreeves.com/wp-content/uploads/2020/03/kiwi-female-2-scaled.jpg",
+      "fruit": "https://www.salepepe.it/files/2023/02/AA509497_alta-1140x636.jpg"
+    }
+  },
+  {
+    "id": 67,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138974.png",
+    "photos": {
+      "plant": "https://www.yarden.com/wp-content/uploads/Brewster-Lychee-Tree-2.jpg",
+      "flower": "https://live.staticflickr.com/3223/2864222190_326928a24a_b.jpg",
+      "fruit": "https://www.tastingtable.com/img/gallery/everything-you-need-to-know-about-lychee-fruit/l-intro-1648012156.jpg"
+    }
+  },
+  {
+    "id": 68,
+    "icon": "https://cdn-icons-png.flaticon.com/512/4055/4055142.png",
+    "photos": {
+      "plant": "https://www.giardinaggio.net/frutti/piante-da-frutto/fico_NG2.jpg",
+      "fruit": "https://www.thespruceeats.com/thmb/Mzwf_9TKHkV42wcS4PFsxLJ-aKY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/figs_getty2400-56a496c75f9b58b7d0d7b522.jpg"
+    }
+  },
+  {
+    "id": 69,
+    "icon": "https://cdn-icons-png.flaticon.com/512/7557/7557743.png",
+    "photos": {
+      "plant": "https://www.homestead-acres.com/wp-content/uploads/2021/03/Gooseberry-Bush.jpg",
+      "flower": "https://gardenerspath.com/wp-content/uploads/2020/06/Gooseberry-Flower.jpg",
+      "fruit": "https://i0.wp.com/resize.hswstatic.com/w_907/gif/gooseberry.jpg?w=660&ssl=1"
+    }
+  },
+  {
+    "id": 70,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9139/9139043.png",
+    "photos": {
+      "plant": "https://cdn.shopify.com/s/files/1/0513/3428/3424/products/FRU0050-3.jpg?v=1628177198",
+      "flower": "https://www.gardeningknowhow.com/wp-content/uploads/2014/03/passionflower.jpg",
+      "fruit": "https://www.theseedcollection.com.au/assets/full/F4-04.jpg?20201210124304"
+    }
+  },
+  {
+    "id": 71,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138929.png",
+    "photos": {
+      "plant": "https://cdn.shopify.com/s/files/1/0158/9452/files/Plum_Tree_Mature_1024x1024.jpg?v=1644501504",
+      "flower": "https://www.thespruce.com/thmb/udNHvcBTP9W2Vth5FY1Pc-gtvWQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-1386791314-70b823fdbb2241d6b51cecf273da3191.jpg",
+      "fruit": "https://cdn.mos.cms.futurecdn.net/CzUfJCWdadXR4rsruAft6C.jpg"
+    }
+  },
+  {
+    "id": 72,
+    "icon": "https://cdn-icons-png.flaticon.com/512/590/590764.png",
+    "photos": {
+      "plant": "https://www.giardinaggio.net/frutti/alberi-da-frutto/melo-cotogno_NG1.jpg",
+      "flower": "https://www.giardinaggio.org/fiori/fiori-di-piante/fiori-di-melo_NG1.jpg",
+      "fruit": "https://www.iyalojadirect.com/wp-content/uploads/2021/10/Apples.jpg"
+    }
+  },
+  {
+    "id": 76,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138970.png",
+    "photos": {
+      "plant": "https://i0.wp.com/homesteadandchill.com/wp-content/uploads/2020/09/how-to-grow-pineapple-guava-feijoa-tree.jpeg?resize=703%2C527&ssl=1",
+      "flower": "https://www.picturethisai.com/image-handle/website_cmsname/image/1080/153798861901529110.jpeg?x-oss-process=image/format,webp",
+      "fruit": "https://m.media-amazon.com/images/I/71FqRFPAjeL._AC_SL1024_.jpg"
+    }
+  },
+  {
+    "id": 77,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138940.png",
+    "photos": {
+      "plant": "https://img.freepik.com/premium-photo/tangerine-tree-citrus-grove-full-fruits-autumn_124717-1304.jpg?w=2000",
+      "flower": "https://cdn11.bigcommerce.com/s-d4kdt4cs8f/product_images/uploaded_images/moved-dfb30716b716ae45c54459897613d199.jpg",
+      "fruit": "https://cdn.commercev3.net/cdn.countrysidecitrus.com/images/popup/tangerines.jpg"
+    }
+  },
+  {
+    "id": 78,
+    "icon": "https://cdn-icons-png.flaticon.com/512/2224/2224237.png",
+    "photos": {
+      "plant": "https://animals.sandiegozoo.org/sites/default/files/2018-06/pitaya_tree.jpg",
+      "flower": "https://www.gardeningknowhow.com/wp-content/uploads/2018/03/dragon-flower-1.jpg",
+      "fruit": "https://www.mcgarlet.it/wp-content/uploads/2020/02/Slide-pithaya-gialla-848x450.jpg"
+    }
+  },
+  {
+    "id": 79,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138932.png",
+    "photos": {
+      "plant": "https://gardenerspath.com/wp-content/uploads/2022/03/Pomegranate-Grow-Guide-Hero.jpg",
+      "flower": "https://www.floraqueen.com/blog/wp-content/uploads/2020/03/shutterstock_424961713.jpg",
+      "fruit": "https://images.healthshots.com/healthshots/en/uploads/2021/09/27184641/pomegranate.jpg"
+    }
+  },
+  {
+    "id": 80,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9139/9139034.png",
+    "photos": {
+      "plant": "https://animals.sandiegozoo.org/sites/default/files/2018-06/pitaya_tree.jpg",
+      "flower": "https://live-production.wcms.abc-cdn.net.au/916029c116e5a6e42a350b72da0a50a5?impolicy=wcms_crop_resize&cropH=1998&cropW=2994&xPos=3&yPos=0&width=862&height=575",
+      "fruit": "https://ediblebloglive.wpengine.com/wp-content/uploads/2022/08/how-to-cut-dragon-fruit.jpg"
+    }
+  },
+  {
+    "id": 81,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138920.png",
+    "photos": {
+      "plant": "https://www.evineyardapp.com/blog/wp-content/uploads/2017/05/wine-berries-694198_1920.jpg",
+      "flower": "https://www.jordanwinery.com/wp-content/uploads/2018/09/2016-Jordan-Petit-Verdot-Flowering-Spring-BLOG-IMG_5535.jpg",
+      "fruit": "https://media-assets.lacucinaitaliana.it/photos/61fa5b61e126f04c3590ccbb/16:9/w_1280,c_limit/uva-da-vino-e-da-tavola.jpg"
+    }
+  },
+  {
+    "id": 82,
+    "photos": {
+      "plant": "https://www.tuttogreen.it/wp-content/uploads/2019/03/shutterstock_537408259-700x525.jpg",
+      "flower": "https://m.media-amazon.com/images/I/510jdlffdPL._AC_.jpg",
+      "fruit": "https://www.alberidafrutto.com/962-large_default/gelso-bianco.jpg"
+    }
+  },
+  {
+    "id": 84,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138951.png",
+    "photos": {
+      "plant": "https://halallife.com.bd/wp-content/uploads/2019/12/growing-avacodo-trees3.jpg",
+      "flower": "https://live.staticflickr.com/7/6475097_50105b9b53_z.jpg",
+      "fruit": "https://www.cure-naturali.it/.imaging/default/dam/cure-naturali/enciclopedia-naturale/alimentazione/avocado.jpg/jcr:content.jpg"
+    }
+  },
+  {
+    "id": 85,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138923.png",
+    "photos": {
+      "plant": "https://www.almanac.com/sites/default/files/users/The%20Editors/kiwi-fruit-on-vine-leaves_full_width.jpg",
+      "flower": "https://www.chrisbowers.co.uk/controlpanel/ckfinder/userfiles/images/kiwi%20fruit%20flowers.jpg",
+      "fruit": "https://snaped.fns.usda.gov/sites/default/files/styles/crop_ratio_7_5/public/seasonal-produce/2018-05/kiwi.jpg?itok=jv-VEN7M"
+    }
+  },
+  {
+    "id": 86,
+    "icon": "https://cdn-icons-png.flaticon.com/512/9138/9138917.png",
+    "photos": {
+      "plant": "https://cdn.shopify.com/s/files/1/0158/9452/files/Peach_Tree_Mature_Header_1024x1024.jpg?v=1637684885",
+      "flower": "https://www.giardinaggio.net/fiori/fiori-di-piante/fiori-pesco_NG1.jpg",
+      "fruit": "https://imagesvc.meredithcorp.io/v3/mm/image?q=60&c=sc&rect=0%2C167%2C2000%2C1167&poi=%5B860%2C613%5D&w=2000&h=1000&url=https%3A%2F%2Fstatic.onecms.io%2Fwp-content%2Fuploads%2Fsites%2F44%2F2022%2F03%2F10%2Fhow-to-store-peaches.jpg"
+    }
+  },
+  {
+    "id": 87,
+    "icon":"https://cdn-icons-png.flaticon.com/512/2044/2044963.png",
+    "photos": {
+      "plant": "https://extension.umaine.edu/cranberries/wp-content/uploads/sites/40/2015/10/Highbush-Cranberry-Tree-SEastMinnesota.jpg",
+      "flower": "https://www.gardenia.net/storage/app/public/uploads/images/detail/103012847_sOptimized.webp",
+      "fruit": "https://www.seriouseats.com/thmb/XbejH0cJylmtzwsn3qkUDpP_pwc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__images__2014__11__cranberries-shutterstock_155418920-4753bf4ff5a34ad2ad526bc423f8cedf.jpg"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+.photos{
+    width: 90%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    border-radius: 50%;
+    opacity: 0.95;
+}
+
+.photoItem:hover{
+    opacity: 0.8;
+}
+
+.photoItem img:hover{
+    scale: 103%;
+}
+
+.bgLabel{
+    background-image: url("../../assets/images/triangleBg.png");
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 20% 10% 8% 15%;
+    position: relative;
+    top: -20%;
+    left: 5%;
+}
+
+.label{
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 1.2rem;
+}

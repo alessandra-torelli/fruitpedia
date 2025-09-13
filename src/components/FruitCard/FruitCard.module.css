@@ -1,0 +1,23 @@
+.card{
+    background-color: #FEFEDD;
+    border-radius: 15px;
+    width: 90%;
+    margin: 5%;
+    border: none;
+    padding: 2.5rem 0;
+}
+
+.card:hover{
+    box-shadow: 10px 10px 4px rgba(166, 73, 33, 0.15);
+    cursor: pointer;
+}
+
+.card img{
+    width: 35%;
+    margin: auto;
+}
+
+.bodyStrong{
+    color: #A64921;
+    font-weight: 600;
+}

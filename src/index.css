@@ -1,0 +1,99 @@
+/*************** TYPOGRAPHY ***************/
+
+html{
+    font-family: 'Gothic A1', sans-serif;
+    color: #A64921;
+    background-color: #FEE463;
+}
+
+h1, h2, h3, button, a, .subtitle{
+    font-family: 'Signika Negative', sans-serif;
+}
+
+h1{
+    font-weight: 700;
+    text-align: center;
+    padding-top: 3rem;
+    padding-bottom: 1.5rem;
+}
+
+h2, h3, .subtitle{
+    font-weight: 500;
+}
+
+h1, h2{
+    color:#A64921;
+}
+
+h2{
+    padding-bottom: 1rem;
+}
+
+h3{
+    color: #F6AE0C;
+}
+
+p, li{
+    font-family: 'Gothic A1', sans-serif;
+    font-weight: 400;
+    color:#A64921;
+}
+
+.bodySmall{
+    font-size: 0.85rem;
+}
+
+.bodyStrong{
+    color:#A64921;
+    font-weight: 600;
+}
+
+a{
+    text-decoration: none;
+    font-weight: 500;
+    color: #FEFEDD;
+    font-size: 1.15rem;
+}
+
+a:hover{
+    color: #927A35;
+}
+
+.subtitle{
+    font-size: 1.5rem;
+}
+
+code{
+    font-weight: 400;
+    color:#A64921;
+    font-size: 1rem;
+}
+
+
+/*************** GENERAL ***************/
+
+main{
+    background-color: #FEE463;
+}
+
+/***** BUTTON *****/
+
+button{
+    padding: 15px;
+    border-radius: 12px;
+    text-transform: uppercase;
+    background-color: #F6AE0C;
+    color: #FEFEDD;
+}
+
+button:hover{
+    background-color: #927A35;
+}
+
+a.activeNav{
+    color: #A64921;
+}
+
+a.activeNav:hover{
+    color: #927A35;
+}

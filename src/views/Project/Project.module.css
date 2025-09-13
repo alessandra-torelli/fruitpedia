@@ -1,0 +1,35 @@
+#doc h3{
+    color: #A64921;
+    font-size: 1.5rem;
+}
+
+#doc h4{
+    font-family: 'Signika Negative', sans-serif;
+    color: #A64921;
+    font-size: 1.25rem;
+}
+
+#doc p{
+    font-weight: 400;
+    margin-bottom: 0.75rem;
+}
+
+#doc img{
+    width: 85%;
+}
+
+#doc h2{
+    margin-top: 2rem;
+}
+
+#doc h3{
+    margin-top: 1.5rem;
+}
+
+#doc h4{
+    margin-top: 1.3rem;
+}
+
+#doc img:hover{
+    cursor: auto;
+}

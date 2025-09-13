@@ -1,0 +1,68 @@
+#tableInfo p{
+    margin-bottom: 0;
+}
+
+#tableInfo p{
+    display: inline-block;
+}
+
+#tableInfo p:nth-child(odd){
+    width: 30%;
+}
+
+#bgImgDetail{
+    background-image: url("../../assets/images/triangleBg.png");
+    background-size: contain;
+    display: flex;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    padding: 0 8% 8% 8%;
+}
+
+#bgImgDetail img{
+    width: 80%;
+}
+
+#bgImgDetail img:hover{
+    cursor: auto;
+}
+
+#tableNutritions{
+    background-color: #FEEE9E;
+    border-radius: 15px;
+}
+
+#tableNutritions div{
+    border-right: 3px solid #FEE463;
+    padding: 2% 0;
+}
+
+#tableNutritions div:last-child{
+    border-right: none;
+}
+
+#tableNutritions div:nth-child(5){
+    border-right: none;
+}
+
+.heading{
+    font-family: 'Signika Negative', sans-serif;
+    font-size: 1.3rem;
+}
+
+#photos h3{
+    text-align: center;
+    color:#A64921;
+    font-size: 1.5rem;
+    padding-bottom: 1.6rem;
+}
+
+#photos img{
+    border-radius: 50%;
+    width: 85%;
+    aspect-ratio: 1/1;
+    object-fit: cover;
+    opacity: 0.8;
+    cursor: auto;
+}

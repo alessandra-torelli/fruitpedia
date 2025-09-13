@@ -1,0 +1,64 @@
+footer{
+    background-color: #B8B353;
+}
+
+footer img:hover{
+    scale: 103%;
+}
+
+/* NAV */
+
+.navList{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.navList li{
+    padding: 5px;
+}
+
+/* central column */
+
+footer p{
+    color: #FEFEDD;
+}
+
+footer a{
+    padding: 5px 0;
+}
+
+#logoFooter{
+    opacity: 0.7;
+    rotate: -45deg;
+    width: 10%;
+    box-sizing: content-box;
+    padding: 10px;
+}
+
+#logoFooter:hover{
+    opacity: 1;
+}
+
+/* university */
+
+#logoUniversity{
+    width: 15%;
+}
+
+@media screen and (min-width: 768px) {
+    #logoUniversity{
+        width: 100%;
+    }
+}
+
+img:hover{
+    cursor: pointer;
+}
+
+/* author line */
+
+#author{
+    border-top: 2px solid #FEFEDD;
+    padding-top: 10px;
+}
