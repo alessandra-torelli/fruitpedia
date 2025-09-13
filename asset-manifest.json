@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/fruitpedia/static/css/main.eaf4289c.css",
-    "main.js": "/fruitpedia/static/js/main.99f3b0c2.js",
+    "main.js": "/fruitpedia/static/js/main.65af4cfa.js",
     "static/js/787.cd7d7d7f.chunk.js": "/fruitpedia/static/js/787.cd7d7d7f.chunk.js",
     "static/media/figma.png": "/fruitpedia/static/media/figma.a085496941b3ee75c1d5.png",
     "static/media/fetch.png": "/fruitpedia/static/media/fetch.a12f2662047e0dce75d4.png",
@@ -29,11 +29,11 @@
     "static/media/grid.svg": "/fruitpedia/static/media/grid.a7a01f6876c3c3f566915ea70ec4b367.svg",
     "static/media/table.svg": "/fruitpedia/static/media/table.77274dab80594ba52ea5fdad56105d39.svg",
     "main.eaf4289c.css.map": "/fruitpedia/static/css/main.eaf4289c.css.map",
-    "main.99f3b0c2.js.map": "/fruitpedia/static/js/main.99f3b0c2.js.map",
+    "main.65af4cfa.js.map": "/fruitpedia/static/js/main.65af4cfa.js.map",
     "787.cd7d7d7f.chunk.js.map": "/fruitpedia/static/js/787.cd7d7d7f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.eaf4289c.css",
-    "static/js/main.99f3b0c2.js"
+    "static/js/main.65af4cfa.js"
   ]
 }
