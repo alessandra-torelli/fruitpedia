@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/fruitpedia/static/css/main.eaf4289c.css",
+    "main.js": "/fruitpedia/static/js/main.99f3b0c2.js",
+    "static/js/787.cd7d7d7f.chunk.js": "/fruitpedia/static/js/787.cd7d7d7f.chunk.js",
+    "static/media/figma.png": "/fruitpedia/static/media/figma.a085496941b3ee75c1d5.png",
+    "static/media/fetch.png": "/fruitpedia/static/media/fetch.a12f2662047e0dce75d4.png",
+    "static/media/imageFile.png": "/fruitpedia/static/media/imageFile.abcdefb04719c5f94e04.png",
+    "static/media/screenPokemon.png": "/fruitpedia/static/media/screenPokemon.b8007e54cc084f49dbe1.png",
+    "static/media/problems.png": "/fruitpedia/static/media/problems.e4522ed38ac613160293.png",
+    "static/media/screenFruitpedia.png": "/fruitpedia/static/media/screenFruitpedia.4c13168f2d391cbaaab8.png",
+    "static/media/corsPolicy.png": "/fruitpedia/static/media/corsPolicy.f19034367decd2e6c2d1.png",
+    "static/media/defaultImage.png": "/fruitpedia/static/media/defaultImage.ea0c170dd99a1b047bbc.png",
+    "static/media/coverFruits.png": "/fruitpedia/static/media/coverFruits.213c593bbdf988f467ba.png",
+    "static/media/defaultIcon.png": "/fruitpedia/static/media/defaultIcon.a6f8728e7d0dc242c1c0.png",
+    "static/media/logoUnimib.svg": "/fruitpedia/static/media/logoUnimib.6ef21fef6910634eeacfcfbf963720f2.svg",
+    "static/media/bananaError.png": "/fruitpedia/static/media/bananaError.221fb8ad6113d30c1917.png",
+    "static/media/browserURL.png": "/fruitpedia/static/media/browserURL.0352d35e73456424ed43.png",
+    "static/media/onErrorImg.png": "/fruitpedia/static/media/onErrorImg.8c911b395d8dac0fb160.png",
+    "static/media/triangleBg.png": "/fruitpedia/static/media/triangleBg.153205224f0e9af06f44.png",
+    "static/media/errors.png": "/fruitpedia/static/media/errors.42a29bf223bd8f4b4cf6.png",
+    "static/media/routeDetail.png": "/fruitpedia/static/media/routeDetail.bc627beb82db51b30a78.png",
+    "static/media/errorRichiamo.png": "/fruitpedia/static/media/errorRichiamo.9643d769c7769e5b9bec.png",
+    "static/media/default.png": "/fruitpedia/static/media/default.3898cc0f81dd5538aea7.png",
+    "static/media/logoFruitpedia.png": "/fruitpedia/static/media/logoFruitpedia.d24a357817930dd33c2f.png",
+    "static/media/plantLight.svg": "/fruitpedia/static/media/plantLight.fba4d3097182d89793e49740641d67db.svg",
+    "static/media/flowerLight.svg": "/fruitpedia/static/media/flowerLight.ca732a2d5a155091f32f64e313975d9b.svg",
+    "index.html": "/fruitpedia/index.html",
+    "static/media/grid.svg": "/fruitpedia/static/media/grid.a7a01f6876c3c3f566915ea70ec4b367.svg",
+    "static/media/table.svg": "/fruitpedia/static/media/table.77274dab80594ba52ea5fdad56105d39.svg",
+    "main.eaf4289c.css.map": "/fruitpedia/static/css/main.eaf4289c.css.map",
+    "main.99f3b0c2.js.map": "/fruitpedia/static/js/main.99f3b0c2.js.map",
+    "787.cd7d7d7f.chunk.js.map": "/fruitpedia/static/js/787.cd7d7d7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaf4289c.css",
+    "static/js/main.99f3b0c2.js"
+  ]
+}
