@@ -1,5 +1,5 @@
 import React from "react";
-import {BrowserRouter, Route, Routes} from 'react-router-dom';
+import { HashRouter as Router, Routes, Route } from 'react-router-dom';
 import MainTemplate from "../../components/MainTemplate/MainTemplate";
 import Home from "../Home/Home"
 import Fruits from "../Fruits/Fruits";
