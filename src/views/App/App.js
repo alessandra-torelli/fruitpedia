@@ -19,7 +19,7 @@ function App() {
     ];
 
     return (
-        <BrowserRouter>
+        <Router>
             <MainTemplate
                 logoFruitpedia = {logoFruitpedia}
                 footerCourseName = "Applicazioni web progettazione e sviluppo"
@@ -36,7 +36,7 @@ function App() {
                     <Route path="*" element={<ErrorNotFound/>}/>
                 </Routes>
             </MainTemplate>
-        </BrowserRouter>
+        </Router>
     );
 }
 
